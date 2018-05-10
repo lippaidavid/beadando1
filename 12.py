@@ -19,5 +19,5 @@ def nth(n):
             count += 1
     return i
 
-print(nth(2))
+print(nth(6))
 print(nth(10001))
