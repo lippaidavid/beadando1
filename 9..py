@@ -15,3 +15,5 @@ def primeFactors(n):
 
 print(primeFactors(13195))
 print(primeFactors(600851475143))
+print(max(primeFactors(13195)))
+print(max(primeFactors(600851475143)))
